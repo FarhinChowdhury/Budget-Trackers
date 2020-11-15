@@ -27,11 +27,19 @@ The technologies that were used for this project were:
 - IndexedDB.
 
 ## Link:
-
+[Budget Tracker Link](https://nameless-island-78488.herokuapp.com/)
 
 
 
 ## Images:
+The page when it is online:
+![Homepage](/assets/homepage.png)
+
+The page when it is offline, as you can see the transactions are being saved but not pushed.
+![Offline-Page](/assets/offlinepage.png)
+
+Once the page is back online the transactions that occured offline gets posted through a bulk.
+![Back-online](/assets/backonline.png)
 
 
 
